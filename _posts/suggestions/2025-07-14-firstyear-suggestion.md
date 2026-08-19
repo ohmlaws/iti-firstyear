@@ -1,7 +1,7 @@
 ---
-title: "First Year Suggestion"
+title: "ITI First Year Suggestion"
 description: >-
- First Year Suggestion book, Theory, WCS, Drawing, Emp Skills
+ ITI First Year Suggestion book, Theory, WCS, Drawing, Emp Skills
 date: 2025-07-14 16:25:00 +0530
 categories: [1st year]
 tags: [ITI]
@@ -10,7 +10,7 @@ image:
   path: /assets/img/banner/firstyear-suggestions.png
 ---
 <p>
-    <a href="https://raw.githubusercontent.com/ohmlaws/firstyear/master/assets/pdf/iti-firstyear-suggestion.pdf"
+    <a href="https://raw.githubusercontent.com/ohmlaws/iti-firstyear/master/assets/pdf/iti-firstyear-suggestion.pdf"
   style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
   Download PDF
     </a>
@@ -19,7 +19,7 @@ image:
   
      
    <iframe 
-    src="https://docs.google.com/viewer?url=https://ohmlaws.github.io/firstyear/assets/pdf/iti-firstyear-suggestion.pdf&embedded=true" 
+    src="https://docs.google.com/viewer?url=https://ohmlaws.github.io/iti-firstyear/assets/pdf/iti-firstyear-suggestion.pdf&embedded=true" 
     width="100%" 
     height="800px" 
     style="border: none;">
